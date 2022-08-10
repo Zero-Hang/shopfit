@@ -1,0 +1,142 @@
+.peoper{
+	height: 480px;
+	text-align: center;
+	color: #FFFFFF;
+}
+.peoper .col-md-4{
+	margin: 0;
+}
+.peoper img{
+	width: 70%;
+}
+.information{
+	width: 90%;
+	line-height: 30px;
+	margin: 0px auto;
+	padding: 30px;
+	background-color: #2064ff;
+}
+.peoper_text_p{
+	font-size: 26px;
+	text-align: left;
+	border-bottom: 1px #FFFFFF solid;
+}
+.peoper_text{
+	margin-top: 10px;
+	text-align: left;
+}
+.title_about{
+	padding-top: 40px;
+	font-size: 40px;
+}
+.about_four{
+	width: 80%;
+	margin: 0px auto;
+	padding-bottom: 40px;
+}
+.title_abt{
+	width: 80%;
+	margin: 0px auto;
+}
+.about_three{
+	width: 80%;
+	margin: 0px auto;
+}
+.about_three img{
+	width: 70%;
+}
+.about_three .col-md-12{
+	margin: 0px auto;
+}
+.img_auto{
+	text-align: center;
+}
+.about_title{
+	height: 400px;
+	color: #FFFFFF;
+	background-image: url(../img/about/img_01.png);
+	background-size:cover;
+}
+.about_one{
+	width: 80%;
+	padding-top: 60px;
+	margin: 0px auto;
+}
+.card{
+	width: 80%;
+	margin: 0px auto;
+}
+.col-md-4{
+	margin: 20px 0px 10px 60px;
+	padding-left: 60px;
+	background-color: #FFFFFF;
+}
+.card_col{
+	margin: 240px 0px  10px 60px;
+	padding-left: 60px;
+	background-color: #FFFFFF;
+}
+.col_img{
+	margin: 20px 0px 10px 40px;
+	float: left;
+	width: 161px;
+}
+.text_two{
+	font-size: 30px;
+	margin-top: 10px;
+}
+.text_three{
+	margin-bottom: 30px;
+}
+.about_two {
+	width: 100%;
+	background-color: #f4f5f9;
+}
+.about_p{
+	font-size: 40px;
+	color: #2064ff;
+}
+
+.about_text{
+	line-height: 30px;
+	text-indent: 28px;
+}
+.about_one img{
+	width: 400px;
+}
+.plan{
+	width: 80%;
+	padding-top: 160px;
+	margin: 0px auto;
+	text-align: center;
+}
+.plan img{
+	width: 60%;
+	margin-bottom: 20px;
+}
+.plan p{
+	width: 60%;
+	margin: 0px auto;
+	margin-bottom: 40px;
+	text-align: left;
+}
+.top_title{
+	width: 100%;
+	height: 360px;
+	background-image: url(../img/about/img_01.png);
+	background-size:cover;
+}
+.plan_text1{
+	font-size: 30px;
+	padding-top: 160px;
+}
+
+.planTagboard {
+	width: 80%;
+	height: 150px;
+	background-color: #FFFFFF;
+	margin: 0px auto;
+	position: relative;
+	bottom: -80px;
+	box-shadow: 0px 0px 4px 5px #eef3fe;
+}

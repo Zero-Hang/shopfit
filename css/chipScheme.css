@@ -1,0 +1,120 @@
+.chip_buttom {
+	width: 100%;
+	height: 700px;
+	display: flex;
+	background-image: url(../img/chipScheme/img_15.png);
+	background-size: cover;
+	justify-content: center;
+	align-items: center;
+}
+
+.chip_buttom .row {
+	width: 80%;
+	margin: 0px auto;
+	text-align: right;
+	text-shadow: 2px 2px 0px #FFFFFF;
+}
+
+.chip_buttom_p {
+	font-size: 36px;
+	margin-bottom: 40px;
+}
+
+.chip_buttom_text {
+	font-size: 20px;
+}
+
+.dynamic_title {
+	display: flex;
+	height: 360px;
+	color: #FFFFFF;
+	background-image: url(../img/chipScheme/img_01.png);
+	background-size: cover;
+	justify-content: center;
+	align-items: center;
+}
+
+.img_03 {
+	width: 100%;
+}
+
+.img_text .row div {
+	text-align: center;
+}
+
+.plan_text1 {
+	font-size: 40px;
+}
+
+.plan {
+	width: 80%;
+	margin: 0px auto;
+}
+
+.p_center {
+	text-align: center !important;
+	margin-bottom: 0px !important;
+	line-height: 60px;
+	font-size: 24px;
+}
+
+.next {
+	width: 80%;
+	padding-bottom: 20px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.bg_img {
+	width: 100%;
+}
+
+.sd_two {
+	padding-top: 40px;
+}
+
+.sd_two .row {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sd_two .row .img_text img {
+	margin-bottom: 10px;
+	height: 40px;
+}
+
+.sd_two .row .img_text .col-md-2 {
+	font-size: 12px;
+	padding: 20px 5px 20px 5px;
+}
+
+.sd_two .col-md-4 p {
+	padding: 0px 40px;
+	text-align: left;
+	margin-bottom: 50px;
+}
+
+.plan div {
+	display: flex;
+	text-align: right;
+	align-items: center;
+}
+
+.plan div div {
+	justify-content: center;
+	flex-wrap: wrap;
+	align-content: flex-start;
+}
+
+.schemeDetails_text2 {
+	font-size: 26px;
+}
+
+.plan div div p {
+	width: 100%;
+}
+
+.plan img {
+	width: 80%;
+}
